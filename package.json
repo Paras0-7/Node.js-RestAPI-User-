@@ -1,0 +1,16 @@
+{
+  "name": "node.js-task2",
+  "version": "1.0.0",
+  "description": "Simple REST service with CRUD operations for user entity",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Paras Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-localstorage": "^2.2.1",
+    "uuid": "^8.3.2"
+  }
+}
